@@ -11,6 +11,7 @@ func solution(name string) bool {
             return false
         }
     }
+
     
     return true
 }
